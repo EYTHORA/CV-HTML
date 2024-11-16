@@ -127,7 +127,7 @@
                     </tr>
                     <tr>
                         <td>SMK YP 17 CILEGON</td>
-                        <td>Akuntansi</td>
+                        <td>Accounting</td>
                         <td>2023</td>
                     </tr>
                 </tbody>
