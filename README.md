@@ -182,7 +182,7 @@
         <div class="section">
             <h2 class="section-title">5. Organizational experience</h2>
             <h3>Ikatan Olahraga Sttikom Insan Unggul (2024)</h3>
-            <p>Position: Sekretaris</p <div class="section">
+            <p>Position: Sekretaris</p> <div class="section">
         </div>
 
         <div class="section">
