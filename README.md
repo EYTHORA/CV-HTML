@@ -262,5 +262,4 @@
                     cooking appliance that allows users to fry, bake, and grill food in a healthier way. </li>
             </ul>
         </div>
-</body>
-</html>
+
